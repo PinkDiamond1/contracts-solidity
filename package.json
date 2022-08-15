@@ -35,8 +35,8 @@
         "prepare": "yarn build && yarn snyk-protect"
     },
     "dependencies": {
-        "@bancor/token-governance": "bancorprotocol/token-governance",
-        "@openzeppelin/contracts": "3.4.0"
+        "@bancor/token-governance": "0.1.1",
+        "@openzeppelin/contracts": "4.7.3"
     },
     "devDependencies": {
         "@openzeppelin/test-environment": "^0.1.9",
